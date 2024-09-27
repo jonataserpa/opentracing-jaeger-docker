@@ -16,6 +16,6 @@ sudo docker compose up -d
 <div align="center">
   <br />
     <a href="https://youtu.be/zfAb95tJvZQ" target="_blank">
-      <img src="https://github.com/jonataserpa/opentracing-jaeger-docker/img/" alt="IMG">
+      <img src="https://github.com/jonataserpa/opentracing-jaeger-docker/blob/main/img/image.png" alt="IMG">
     </a>
 </div>
